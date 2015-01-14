@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.app.SearchContactsAPI" version="2013073001" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SearchContactsAPI</name>
+    <description>
+        A Tutorial Repo for PhoneGap 3 Contacts API.
+    </description>
+    <author email="link2mohsin22@gmail.com" href="http://www.mobitsolutions.com">
+        M.Mohsin Shabbir
+    </author>
+    <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="true" />
+    <content src="index.html" />
+</widget>
